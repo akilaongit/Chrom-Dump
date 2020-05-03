@@ -5,10 +5,12 @@ This is an open-source tool for get text base dump file in your Google Chrom His
 <hr>
 Preview💻<br>
 
-![Image description](preview.png)
+![previewimage](preview.png)
 
 <h3>#️⃣EXE hash</h3>
-8245fa7a85b3cf396d3a5c77e1bb08d3
+8245fa7a85b3cf396d3a5c77e1bb08d3<br>
+![hahsiamge](hash.png)
+
 <hr>
 <h3>Dependencies</h3>
 <li>SQLITE3</li>
